@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Elise Boisson
 description              : Elise Boisson - Projects and CV 
-baseurl                  : "esb285" # Set this to your repo name 
+baseurl                  : "fa25-portfolio-esb285" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
