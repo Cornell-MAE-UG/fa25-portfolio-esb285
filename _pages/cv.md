@@ -19,19 +19,19 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 3.76/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
+- **Bronx High School of Science**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June, 2024
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, AutoCAD, SolidWorks, ANSYS  
+- **Programming:** Python, MATLAB, Java
+- **Tools:** 3D Printing, Manual mill operation, lathe operation
 
 ---
 

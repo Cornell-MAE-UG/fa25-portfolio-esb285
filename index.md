@@ -6,7 +6,7 @@ title: Elise Boisson
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/IMG_1717.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/actual_images_used/IMG_1717.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and I am really interested in ...

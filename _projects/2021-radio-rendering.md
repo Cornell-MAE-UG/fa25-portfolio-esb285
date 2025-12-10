@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+title: Designing a Wrench 
+description: Advanced CAD and ANSYS Project
+technologies: [Autodesk Fusion, ANSYS, MATLAB]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
