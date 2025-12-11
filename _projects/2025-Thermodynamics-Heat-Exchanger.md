@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
+title: Heat Exchanger Analysis
+description: Analysis of Heat Exchanger for Thermodynamic Course
 technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
 ---
