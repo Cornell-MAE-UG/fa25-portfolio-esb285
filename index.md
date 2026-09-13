@@ -12,3 +12,11 @@ title: Elise Boisson
 My name is {{ site.name }}, I’m a Mechanical Engineering student at Cornell University with experience in mechanical design, scientific research, and prototyping. I’m seeking engineering opportunities in R&D, design, energy, or aerospace.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+
+## Projects
+
+<ul class="profile-project-list">
+{% for project in site.projects %}
+	<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+{% endfor %}
+</ul>

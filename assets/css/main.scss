@@ -3,8 +3,7 @@
 # only Main files contain this front matter, not partials.
 --- 
 
-$color_scheme: '{{ site.color_scheme }}';
+$color_scheme: light;
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Merriweather:wght@400;700&display=swap');
 @import "custom";
 
