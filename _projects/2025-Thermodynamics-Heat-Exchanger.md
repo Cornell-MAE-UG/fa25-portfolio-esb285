@@ -8,6 +8,18 @@ imagealt: Heat exchanger minilab experimental setup
 imagecaption: Minilab Heat Exchanger System Setup
 ---
 
+## Project Overview
+
+### Objectives
+
+### Process
+
+### Outcomes
+
+% add a line 
+
+### Images
+
 For my thermodynamics course, I was tasked with analyzing a thermodynamics system in the real world using thermodynamic concepts. A minilab with a heat exchanger was done for this project. 
 
 ## Set Up of Mini-lab
