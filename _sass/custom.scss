@@ -251,19 +251,6 @@ main h6 {
   text-align: center;
 }
 
-.cv-pdf {
-  margin: 2rem 0;
-}
-
-.cv-pdf object {
-  display: block;
-  width: 100%;
-  height: min(80vh, 900px);
-  min-height: 600px;
-  border: 1px solid lighten($text-color, 55%);
-  background: white;
-}
-
 // Improved project content spacing (Recommendation 3)
 .project-content {
   padding: 1rem 0;
