@@ -28,4 +28,4 @@ I built a complete 3D CAD model of the optimized blade in SOLIDWORKS from the te
 
 ![Top view of the blade]({{ "/assets/images/actual_images_used/top_view.png" | relative_url }}){: style="width: 350px"}
 ![Side view of the blade showing twist]({{ "/assets/images/actual_images_used/twist_1.png" | relative_url }}){: style="width: 350px"}
-![Side view of the blade showing length]({{ "/assets/images/actual_images_used/balde.png.png" | relative_url }}){: style="width: 350px"}
+![Side view of the blade showing length]({{ "/assets/images/actual_images_used/blade.png" | relative_url }}){: style="width: 350px"}
