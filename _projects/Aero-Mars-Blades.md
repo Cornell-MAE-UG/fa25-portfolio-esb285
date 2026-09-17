@@ -3,7 +3,7 @@ layout: project
 title: Mars Rotorcraft Blade Design
 description: Theoretical Aerodynamic Implementation and Advanced CAD
 technologies: [Python, SOLIDWORKS]
-image: /assets/images/actual_images_used/Ansys Images/fig2c.png #change this
+image: /assets/images/actual_images_used/blade.png #change this
 imagealt: 
 imagecaption: 
 ---
@@ -26,7 +26,6 @@ I built a complete 3D CAD model of the optimized blade in SOLIDWORKS from the te
 
 ### Images
 
-
-### Acknowledgements
-
-This project was completed in collaboration with fellow Cornell University Mechanical Engineering student, Arabella Carlos. The CAD, MATLAB, and ANSYS were completed together as well as discussion of the design approach and optimization strategies.
+![Top view of the blade]({{ "/assets/images/actual_images_used/top_view.png" | relative_url }}){: style="width: 350px"}
+![Side view of the blade showing twist]({{ "/assets/images/actual_images_used/twist_1.png" | relative_url }}){: style="width: 350px"}
+![Side view of the blade showing length]({{ "/assets/images/actual_images_used/balde.png.png" | relative_url }}){: style="width: 350px"}

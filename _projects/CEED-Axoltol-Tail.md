@@ -3,7 +3,7 @@ layout: project
 title: Axolotl Tail Design 
 description: Advanced CAD and Prototyping Project
 technologies: [Autodesk Fusion 360, 3D Printing]
-image: /assets/images/actual_images_used/Ansys Images/fig2c.png #change this
+image: /assets/images/actual_images_used/left_axo.png #change this
 imagealt: 
 imagecaption: 
 ---
@@ -25,7 +25,13 @@ The prototype successfully achieved two-axis motion, side-to-side and vertical, 
 
 ### Images
 
+![First part of Final CAD model]({{ "/assets/images/actual_images_used/cad_axo1.png" | relative_url }}){: style="width: 350px"}
+![Second part of Final CAD model]({{ "/assets/images/actual_images_used/cad_axo2.png" | relative_url }}){: style="width: 350px"}
 
-### Acknowledgements
 
-This project was completed in collaboration with fellow Cornell University Mechanical Engineering student, Arabella Carlos. The CAD, MATLAB, and ANSYS were completed together as well as discussion of the design approach and optimization strategies.
+![Small draft prototype to test design]({{ "/assets/images/actual_images_used/draft_prototype.jpeg" | relative_url }}){: style="width: 350px"}
+
+![Final Prototype with strings moving to the left]({{ "/assets/images/actual_images_used/left_axo.png" | relative_url }}){: style="width: 350px"}
+![Final Prototype with strings moving to the right]({{ "/assets/images/actual_images_used/right_axo.png" | relative_url }}){: style="width: 350px"}
+
+%Video%

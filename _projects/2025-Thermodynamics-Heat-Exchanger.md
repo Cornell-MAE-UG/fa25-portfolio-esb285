@@ -3,7 +3,6 @@ layout: project
 title: Heat Exchanger Analysis
 description: Analysis of Heat Exchanger for Thermodynamic Course
 technologies: [MATLAB, Lab Equipment]
-image: /assets/images/actual_images_used/IMG_2759.jpeg
 imagealt: Heat exchanger minilab experimental setup
 imagecaption: Minilab Heat Exchanger System Setup
 ---
@@ -24,7 +23,7 @@ The experimental outcomes showed that parallel flow produced a heat‑transfer r
 
 ### Images
 
-![Heat exchanger minilab setup with containers]({{ "/assets/images/actual_images_used/IMG_2755.jpeg" | relative_url }}){: .center-image style="width: 500px"}
+![Heat exchanger minilab setup with containers]({{ "/assets/images/actual_images_used/heat_transfer_setup.jpeg" | relative_url }}){: .center-image style="width: 350px"}
 
 <table class="centered-table">
  <thead>
@@ -51,8 +50,8 @@ The experimental outcomes showed that parallel flow produced a heat‑transfer r
  </tbody>
 </table>
 
-![Parallel flow hand calculations diagram]({{ "/assets/images/actual_images_used/IMG_2330.JPG" | relative_url }}){: .center-image style="width: 500px"}
+![Parallel flow hand calculations diagram]({{ "/assets/images/actual_images_used/math_thermo1.JPG" | relative_url }}){: .center-image style="width: 350px"}
 
-![Counterflow hand calculations diagram]({{ "/assets/images/actual_images_used/IMG_2331.JPG" | relative_url }}){: .center-image style="width: 500px"}
+![Counterflow hand calculations diagram]({{ "/assets/images/actual_images_used/math_thermo2.JPG" | relative_url }}){: .center-image style="width: 350px"}
 
-![Counterflow different speeds calculation diagram]({{ "/assets/images/actual_images_used/IMG_2332.JPG" | relative_url }}){: .center-image style="width: 500px"}
+![Counterflow different speeds calculation diagram]({{ "/assets/images/actual_images_used/math_thermo3.JPG" | relative_url }}){: .center-image style="width: 350px"}

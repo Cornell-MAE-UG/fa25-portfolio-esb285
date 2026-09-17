@@ -3,7 +3,7 @@ layout: project
 title: Fluid Mechanics Dissection Video
 description: Dissection and Fluid Analysis of a Dehumidifier
 technologies: [iMovie]
-image: /assets/images/actual_images_used/IMG_5766.JPG
+image: /assets/images/actual_images_used/fan_dehumidifier.png
 imagealt: Dehumidifier dissection project setup
 imagecaption: Dehumidifier Fluid Mechanics Dissection Analysis
 ---
