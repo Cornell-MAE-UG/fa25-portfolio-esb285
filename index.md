@@ -6,7 +6,7 @@ title: Elise Boisson
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/actual_images_used/IMG_1717.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/actual_images_used/profile_pic.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, I’m a Mechanical Engineering student at Cornell University with experience in mechanical design, scientific research, and prototyping. I’m seeking engineering opportunities in R&D, design, energy, or aerospace.

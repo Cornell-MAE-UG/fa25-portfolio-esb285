@@ -3,6 +3,7 @@ layout: project
 title: Heat Exchanger Analysis
 description: Analysis of Heat Exchanger for Thermodynamic Course
 technologies: [MATLAB, Lab Equipment]
+image: /assets/images/actual_images_used/heat_exchanger.png
 imagealt: Heat exchanger minilab experimental setup
 imagecaption: Minilab Heat Exchanger System Setup
 ---
